@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diario</string>
+    <string-array name="tareas">
+        <item>Hacer la compra</item>
+        <item>Tomar cerveza</item>
+        <item>Ir a clase</item>
+        <item>Hacer dibujitos en 3D</item>
+        <item>Hacer tareas de Android</item>
+    </string-array>
+</resources>
